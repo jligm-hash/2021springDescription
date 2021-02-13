@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is data page for RNA sequencing data and the reference genome you may use in BIEN 3320 & LIFS 4320. 
+This is data page for RNA sequencing data and the reference genome you may use in BIEN 3320 & LIFS 4320.
 
 ## Description
 
@@ -16,6 +16,7 @@ This is data page for RNA sequencing data and the reference genome you may use i
 
 ![The file name in this folder](mean_fig1.png)
 
+<!--
 ### `refGeno` folder
 
 - Folder for reference genomes you may use.
@@ -23,14 +24,17 @@ This is data page for RNA sequencing data and the reference genome you may use i
 - e.g. `chr21.hg37/hg38.fa` are the fasta files of reference genome of hg37/hg38 in chr21
 
 - e.g. `chr21.hg37/hg38.gtf` are GTF files for hg37/hg38 in chr21
+-->
 
+<!--
 ## How to download the data
 
 You can try the following command in your terminal and the data will clone to your own folder.
 
 ```git clone https://github.com/jligm-hash/2021spring.git```
 
-- As an alternative, it is fine to use any methods that can download the data here (such as use `curl -O`, `wget`, or `directly download the data`). 
+- As an alternative, it is fine to use any methods that can download the data here (such as use `curl -O`, `wget`, or `directly download the data`).
+-->
 
 ## Notes
 
@@ -38,7 +42,7 @@ You can try the following command in your terminal and the data will clone to yo
 
 - You can use any methods to download the data, but one thing you should make sure is that the size should be the same with the data on this page.
 
-- Generally, if the size of the data is right, you don't have to verify the [`MD5 code`](https://en.wikipedia.org/wiki/MD5). But if you would like to verify the `MD5 code` of each file to make sure that data is right, then you can run `MD5 *.gz`. The MD5 of source data is shown here. 
+- Generally, if the size of the data is right, you don't have to verify the [`MD5 code`](https://en.wikipedia.org/wiki/MD5). But if you would like to verify the `MD5 code` of each file to make sure that data is right, then you can run `MD5 *.gz`. The MD5 of source data is shown here.
 
 ```
 # md5 *.gz

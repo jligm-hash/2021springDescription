@@ -8,7 +8,7 @@ This is data page for RNA sequencing data and the reference genome you may use i
 
 ### `RNAseq` folder
 
-- Folder for RNAseq data you may use. There are 40 `*.fastq.gz` files inside. For each sample, the RNA sequencing data is paired (here the read flags are noted as flag 1 and flag 2, meaning that the data of read flag 1 data is paired with data of read flag 2).
+- Folder for RNAseq data you may use. There are 20 `*.fastq.gz` files inside. For each sample, the RNA sequencing data is paired (here the read flags are noted as flag 1 and flag 2, meaning that the data of read flag 1 data is paired with data of read flag 2).
 
 - e.g. `P1.primary.RNA.1.fastq.gz` means the compressed fastq RNA sequencing for the primary tumor in patient No.1, with read flag 1.
 

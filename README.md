@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is data page for RNA sequencing data and the reference genome you may use in BIEN 3320 & LIFS 4320.
+This is data description page for RNA sequencing data and the reference genome you may use in BIEN 3320 & LIFS 4320. To download the data, you must agree that the data will only be used for academic purpose. The data is in your BIEN3320 data folder of Canvas (`Canvas -> Files -> Data`).
 
 ## Description
 
@@ -16,15 +16,16 @@ This is data page for RNA sequencing data and the reference genome you may use i
 
 ![The file name in this folder](mean_fig1.png)
 
-<!--
+
 ### `refGeno` folder
 
 - Folder for reference genomes you may use.
 
-- e.g. `chr21.hg37/hg38.fa` are the fasta files of reference genome of hg37/hg38 in chr21
+- e.g. `chr21.hg19/hg38.fa` are the reference files in FASTA format (hg19/hg38) for chromosome 21.
 
-- e.g. `chr21.hg37/hg38.gtf` are GTF files for hg37/hg38 in chr21
--->
+- e.g. `chr21.hg19/hg38.gtf` are GTF files (hg19/hg38) for chromosome 21.
+
+- For more details on [hg19](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.13/)/[hg38](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.26/), you can turn to [this website](https://www.ncbi.nlm.nih.gov/grc) for more information.
 
 <!--
 ## How to download the data

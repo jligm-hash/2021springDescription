@@ -51,6 +51,54 @@ MD5 (P1.primary.RNA.1.fastq.gz) = 683403613738fd097341b8b3dffd18c2
 MD5 (P1.primary.RNA.2.fastq.gz) = 8cc53d50042fb68ff919e0e859566cce
 MD5 (P1.recurrent.RNA.1.fastq.gz) = d87717b71ec5d8d2b439580ed988f900
 MD5 (P1.recurrent.RNA.2.fastq.gz) = 093f7389d0dfcf9faca2c6c88ba7aec8
+MD5 (P2.primary.RNA.1.fastq.gz) = 84259ba6ad1e6d8ae1db94704211bb72
+MD5 (P2.primary.RNA.2.fastq.gz) = 3612d87e26f66d331d34b5bed55495d2
+MD5 (P2.recurrent.RNA.1.fastq.gz) = b40709987ee3ae0d14cd2d94cfe51a99
+MD5 (P2.recurrent.RNA.2.fastq.gz) = 2fbf009b109e70163f24523a8d112a22
+MD5 (P3.primary.RNA.1.fastq.gz) = a733df2a72c279bb249d251b783b2a41
+MD5 (P3.primary.RNA.2.fastq.gz) = 522b14fcdfd2e4c3fcbc949fa3371b4f
+MD5 (P3.recurrent.RNA.1.fastq.gz) = 4d3f7ab2a48b185445a16475ae2ef1e6
+MD5 (P3.recurrent.RNA.2.fastq.gz) = 6bf2336e8cea0bb23a9ae84186618752
+MD5 (P4.primary.RNA.1.fastq.gz) = f41d73b3d4457aed6dda571aa8889491
+MD5 (P4.primary.RNA.2.fastq.gz) = 4c8b6efc1a1ee9dd3b896fc08d7d66ba
+MD5 (P4.recurrent.RNA.1.fastq.gz) = b40dd4441e434eb13864a973bc22ad21
+MD5 (P4.recurrent.RNA.2.fastq.gz) = 298e69491ff87406e3854ccedffd3355
+MD5 (P5.primary.RNA.1.fastq.gz) = 1be8400ddf13e6c9c3f1a43930614e47
+MD5 (P5.primary.RNA.2.fastq.gz) = 0355a1f1571b17eb76824daf45a8a7bd
+MD5 (P5.recurrent.RNA.1.fastq.gz) = e5ebf9640f7955db0a6c6e561a7ac581
+MD5 (P5.recurrent.RNA.2.fastq.gz) = c8ca3f2916647d93b39817b7692e053e
+
+# md5sum *.gz
+683403613738fd097341b8b3dffd18c2  P1.primary.RNA.1.fastq.gz
+8cc53d50042fb68ff919e0e859566cce  P1.primary.RNA.2.fastq.gz
+d87717b71ec5d8d2b439580ed988f900  P1.recurrent.RNA.1.fastq.gz
+093f7389d0dfcf9faca2c6c88ba7aec8  P1.recurrent.RNA.2.fastq.gz
+84259ba6ad1e6d8ae1db94704211bb72  P2.primary.RNA.1.fastq.gz
+3612d87e26f66d331d34b5bed55495d2  P2.primary.RNA.2.fastq.gz
+b40709987ee3ae0d14cd2d94cfe51a99  P2.recurrent.RNA.1.fastq.gz
+2fbf009b109e70163f24523a8d112a22  P2.recurrent.RNA.2.fastq.gz
+a733df2a72c279bb249d251b783b2a41  P3.primary.RNA.1.fastq.gz
+522b14fcdfd2e4c3fcbc949fa3371b4f  P3.primary.RNA.2.fastq.gz
+4d3f7ab2a48b185445a16475ae2ef1e6  P3.recurrent.RNA.1.fastq.gz
+6bf2336e8cea0bb23a9ae84186618752  P3.recurrent.RNA.2.fastq.gz
+f41d73b3d4457aed6dda571aa8889491  P4.primary.RNA.1.fastq.gz
+4c8b6efc1a1ee9dd3b896fc08d7d66ba  P4.primary.RNA.2.fastq.gz
+b40dd4441e434eb13864a973bc22ad21  P4.recurrent.RNA.1.fastq.gz
+298e69491ff87406e3854ccedffd3355  P4.recurrent.RNA.2.fastq.gz
+1be8400ddf13e6c9c3f1a43930614e47  P5.primary.RNA.1.fastq.gz
+0355a1f1571b17eb76824daf45a8a7bd  P5.primary.RNA.2.fastq.gz
+e5ebf9640f7955db0a6c6e561a7ac581  P5.recurrent.RNA.1.fastq.gz
+c8ca3f2916647d93b39817b7692e053e  P5.recurrent.RNA.2.fastq.gz
+```
+
+
+<!--
+```
+# md5 *.gz
+MD5 (P1.primary.RNA.1.fastq.gz) = 683403613738fd097341b8b3dffd18c2
+MD5 (P1.primary.RNA.2.fastq.gz) = 8cc53d50042fb68ff919e0e859566cce
+MD5 (P1.recurrent.RNA.1.fastq.gz) = d87717b71ec5d8d2b439580ed988f900
+MD5 (P1.recurrent.RNA.2.fastq.gz) = 093f7389d0dfcf9faca2c6c88ba7aec8
 MD5 (P10.primary.RNA.1.fastq.gz) = 101a77b3f8bbb8ebbea7dacd7e7fa1e0
 MD5 (P10.primary.RNA.2.fastq.gz) = 17384873fd87298efffd711b5d835e7e
 MD5 (P10.recurrent.RNA.1.fastq.gz) = 04d24e527520d477babe91f83e348c2e
@@ -130,3 +178,4 @@ aa556318d74ab7f1b2d1027964c10e5b  P9.primary.RNA.2.fastq.gz
 ce70a9677b07383e69f5ea6668697e98  P9.recurrent.RNA.1.fastq.gz
 a5456ba224a267af9b3a6c9531271a73  P9.recurrent.RNA.2.fastq.gz
 ```
+-->

@@ -135,6 +135,11 @@ MD5 (P9.primary.RNA.1.fastq.gz) = 097ad1ee8d42c5093d5f5d02794af616
 MD5 (P9.primary.RNA.2.fastq.gz) = aa556318d74ab7f1b2d1027964c10e5b
 MD5 (P9.recurrent.RNA.1.fastq.gz) = ce70a9677b07383e69f5ea6668697e98
 MD5 (P9.recurrent.RNA.2.fastq.gz) = a5456ba224a267af9b3a6c9531271a73
+MD5 (chr21.hg19.fa) = 7020ce6e4aaf684b6cfdb31b9f138f73
+MD5 (chr21.hg19.gtf) = ef6b7381b8edd4ee5ba593de77b70443
+MD5 (chr21.hg38.fa) = e5949317dd94da24eee7c3b9586460d1
+MD5 (chr21.hg38.gtf) = 27e806ed89b49d561cad4c4be7e7d276
+MD5 (old.chr21.hg19.fa) = 7020ce6e4aaf684b6cfdb31b9f138f73
 
 # md5sum *.gz
 683403613738fd097341b8b3dffd18c2  P1.primary.RNA.1.fastq.gz
@@ -177,5 +182,10 @@ b5ccb65e1d32a6e2ec706de04ac27b76  P8.primary.RNA.2.fastq.gz
 aa556318d74ab7f1b2d1027964c10e5b  P9.primary.RNA.2.fastq.gz
 ce70a9677b07383e69f5ea6668697e98  P9.recurrent.RNA.1.fastq.gz
 a5456ba224a267af9b3a6c9531271a73  P9.recurrent.RNA.2.fastq.gz
+7020ce6e4aaf684b6cfdb31b9f138f73  chr21.hg19.fa
+ef6b7381b8edd4ee5ba593de77b70443  chr21.hg19.gtf
+e5949317dd94da24eee7c3b9586460d1  chr21.hg38.fa
+27e806ed89b49d561cad4c4be7e7d276  chr21.hg38.gtf
+7020ce6e4aaf684b6cfdb31b9f138f73  old.chr21.hg19.fa
 ```
 -->
